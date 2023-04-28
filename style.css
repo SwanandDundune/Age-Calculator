@@ -1,0 +1,57 @@
+* {box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+     color: white;
+    font-family: 'Itim', cursive;
+   }
+     
+   body{ background-color: rgb(235, 225, 213);}
+
+    .container{
+        width: 730px;
+        height: 280px;
+        background-color:#0E2F2F;
+        margin-top: 270px;
+        margin-left:550px;
+        border-radius: 10px; }
+   
+ h2{text-align: center;
+font-weight: bolder;
+letter-spacing: 4px;
+color: rgb(235, 127, 26); 
+text-shadow: 2px 2px 1px rgb(91, 92, 95); font-weight: bolder;
+}
+form{margin-left: 230px; padding-top: 20px; margin-top: 5px; }
+
+label{ margin-right: 33px; }
+input{width: 170px; margin: 7ox; background-color: dimgrey;    border-radius: 5px;     }
+ 
+#ageB{ padding: 7px; width: 125px; margin-top: 25px; background-color: rgb(247, 173, 82); margin-left: 5px;
+    border-radius: 10px; font-weight: bold;}
+
+
+#ret { padding: 7px; width: 80px; margin-top: 25px; background-color: rgb(247, 173, 82);
+     border-radius: 10px; font-weight: bold; margin-left: 20px;}
+
+
+     #ageB:hover{ background-color: rgb(83, 83, 82);
+         }
+    
+         #ret:hover{ background-color: rgb(83, 83, 82);
+         }
+    
+
+     p{margin-left: 235px; margin-top: 20px;}
+
+a{margin: 8px; 
+    font-size: x-large; 
+    }
+
+ #socialMedia{ margin-left: 280px; padding: 5px;  margin-top: 50px; } 
+ 
+
+
+
+
+
+
